@@ -1,1 +1,2 @@
-# Start-Gulp-
+# Стартовый шаблон для проектов
+Babel,SCSS, rigger HTML, сжатие картинок. 

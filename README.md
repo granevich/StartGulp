@@ -5,7 +5,7 @@ Babel,SCSS, rigger HTML, сжатие картинок, autoReload.
   
   src -  файлы scss, babel и HTML(rigger).
   
- # Для того что бы начать нужно спользовать :
+ # Для того что бы начать, нужно использовать :
 1) npm i
 
 2) gulp default 
